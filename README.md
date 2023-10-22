@@ -14,5 +14,5 @@ FREE TO USE
 
 ## Screenshots
 
-![Screenshot](https://github.com/vasanth2610/Music-Player/blob/main/music%20player/Screenshot/Screenshot%202023-10-22%20193017.png)
+![Screenshot](https://github.com/vasanth2610/Music-Player/blob/main/Screenshot/Screenshot%202023-10-22%20193017.png)
 
